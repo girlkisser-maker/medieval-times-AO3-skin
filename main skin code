@@ -232,7 +232,7 @@ p.kudos {
 }
 
 .splash .favorite li:nth-of-type(odd) a {
-  background: #e2d9bf;
+  background: #000000;
 }
 
 fieldset,
